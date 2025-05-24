@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai_interview_frontend/static/css/main.e472a6d9.css",
+    "main.js": "/ai_interview_frontend/static/js/main.a4fd284c.js",
+    "static/js/453.419a5d54.chunk.js": "/ai_interview_frontend/static/js/453.419a5d54.chunk.js",
+    "index.html": "/ai_interview_frontend/index.html",
+    "main.e472a6d9.css.map": "/ai_interview_frontend/static/css/main.e472a6d9.css.map",
+    "main.a4fd284c.js.map": "/ai_interview_frontend/static/js/main.a4fd284c.js.map",
+    "453.419a5d54.chunk.js.map": "/ai_interview_frontend/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e472a6d9.css",
+    "static/js/main.a4fd284c.js"
+  ]
+}
