@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js",
+    "client-install": "cd client && npm install",
+    "client-build": "cd client && npm run build",
+    "deploy": "npm run client-build && gh-pages -d client/build"
+  },
+  "homepage": "https://vishwesh2303.github.io/interview-coach",
+  "dependencies": {
+    "@huggingface/inference": "^3.13.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
